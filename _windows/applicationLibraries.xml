@@ -1,22 +1,12 @@
 <application>
   <component name="libraryTable">
     <library name="mongoose-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="socket.io-1.4.5" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.socket.io_socket.io-1.4.5.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.socket.io_socket.io-1.4.5.js" />
       </CLASSES>
