@@ -4,4 +4,7 @@
       <version-cache version="5.9.1" last-modified="1458713146000" />
     </local-interpreter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe" version="5.9.1" last-modified="1458713146000" />
+  </component>
 </application>
