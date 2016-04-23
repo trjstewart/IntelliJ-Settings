@@ -48,6 +48,19 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="knockout" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="3.4.0" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout_3.4.0_knockout-min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout_3.4.0_knockout-min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="mongodb-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
