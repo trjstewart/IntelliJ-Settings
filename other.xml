@@ -9,7 +9,7 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.7.0/nodejs/node.exe" version="(Does not exist)" last-modified="1461678685211" />
+    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.7.0/nodejs/node.exe" version="(Does not exist)" last-modified="1461678901741" />
     <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe" version="5.9.1" last-modified="1458713146000" />
   </component>
 </application>
