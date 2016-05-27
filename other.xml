@@ -1,17 +1,20 @@
 <application>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="5.9.1" last-modified="1458713146000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe">
+      <version-cache last-modified="0" />
       <npm-package value="C:\Users\trjst\AppData\Local\scoop\apps\nodejs\5.9.1\nodejs\node_modules\npm" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/nodemon.cmd">
-      <version-cache version="1.9.1" last-modified="1461680889065" />
+      <version-cache last-modified="0" />
       <npm-package value="C:\Users\trjst\AppData\Local\scoop\apps\nodejs\5.9.1\nodejs\node_modules\npm" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.7.0/nodejs/node.exe" excluded="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.7.0/nodejs/node.exe" version="(Does not exist)" last-modified="1461681212485" />
-    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe" version="5.9.1" last-modified="1458713146000" />
+    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.7.0/nodejs/node.exe" version="(Does not exist)" last-modified="1464337309508" />
+    <node-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/5.9.1/nodejs/node.exe" version="(Does not exist)" last-modified="1464337309508" />
   </component>
 </application>
