@@ -17,6 +17,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_crypto-js_3.1.2_components_core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_crypto-js_3.1.2_components_core.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="ember-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -58,6 +69,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout_3.4.0_knockout-min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="md5" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_crypto-js_3.1.2_components_md5.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_crypto-js_3.1.2_components_md5.js" />
       </CLASSES>
       <SOURCES />
     </library>
