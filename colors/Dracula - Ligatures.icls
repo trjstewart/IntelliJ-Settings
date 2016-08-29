@@ -1,0 +1,21 @@
+<scheme name="Dracula - Ligatures" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-08-29T15:22:04</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.2.2.0.0</property>
+    <property name="modified">2016-08-29T15:22:22</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0500001" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+</scheme>
