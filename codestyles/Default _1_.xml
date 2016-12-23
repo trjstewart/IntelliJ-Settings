@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
