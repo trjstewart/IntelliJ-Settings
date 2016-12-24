@@ -6,6 +6,7 @@
       <mapping pattern="TWEET" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="sadfd" type="PLAIN_TEXT" />
+      <mapping pattern="serverless" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="acf" type="PLAIN_TEXT" />
     </extensionMap>
