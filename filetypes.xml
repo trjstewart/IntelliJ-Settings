@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="asdfasdfasdf" type="PLAIN_TEXT" />
+      <mapping pattern="models_correct" type="PLAIN_TEXT" />
       <mapping pattern="emails" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="TWEET" type="PLAIN_TEXT" />
