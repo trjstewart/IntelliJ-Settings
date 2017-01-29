@@ -11,6 +11,7 @@
       <mapping pattern="serverless" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="acf" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
