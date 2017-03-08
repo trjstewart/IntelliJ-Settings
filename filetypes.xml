@@ -1,24 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="asdfasdfasdf" type="PLAIN_TEXT" />
-      <mapping pattern="models_correct" type="PLAIN_TEXT" />
-      <mapping pattern="emails" type="PLAIN_TEXT" />
-      <mapping pattern="features" type="PLAIN_TEXT" />
-      <mapping pattern="derp-" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern="asdfsdf" type="PLAIN_TEXT" />
-      <mapping pattern="TWEET" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sadfd" type="PLAIN_TEXT" />
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping pattern="testing" type="PLAIN_TEXT" />
-      <mapping pattern="x" type="PLAIN_TEXT" />
-      <mapping pattern="serverless" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="acf" type="PLAIN_TEXT" />
-      <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
