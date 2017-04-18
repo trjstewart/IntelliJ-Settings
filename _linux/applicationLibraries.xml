@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="calendar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mdehoog_Semantic-UI-Calendar_76959c6f7d33a527b49be76789e984a0a407350b_dist_calendar.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mdehoog_Semantic-UI-Calendar_76959c6f7d33a527b49be76789e984a0a407350b_dist_calendar.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
